@@ -62,16 +62,22 @@ are all you have. Retro pixel-3D look, playable with one thumb on a phone.
 
 <img src="images/klepht-1821.png" alt="Klepht: 1821 concept art" width="720">
 
-**In development** · Retro first-person game · Godot
+**Concept stage** · Retro first-person game · Godot
 
 A retro first-person game set during the Greek War of Independence. The first map, Palamidi, and the weapons are the
-current focus.
+current focus. Early in-engine shots:
+
+<img src="images/klepht-1821-yataghan.png" alt="Klepht: 1821: first-person yataghan on the Palamidi walls at night" width="720">
+
+<img src="images/klepht-1821-lower-gate.png" alt="Klepht: 1821: torch-lit lower gate" width="356"> <img src="images/klepht-1821-rampart.png" alt="Klepht: 1821: rampart walk at night" width="356">
 
 ---
 
 ## IRON COMET: The Last Salvager
 
-**In development** · Retro 16-bit vertical shoot-'em-up for phones held upright · HTML5
+<img src="images/iron-comet.png" alt="IRON COMET: early greybox build on a phone, scrap orbiting the ship" width="400">
+
+**In development (early greybox build)** · Retro 16-bit vertical shoot-'em-up for phones held upright · HTML5
 
 Destroyed enemies become physical scrap that orbits your ship: it blocks bullets, fills the Salvage Meter and fires
 back as a Scrap Burst. Twelve stages are planned; a polished first stage comes first.
